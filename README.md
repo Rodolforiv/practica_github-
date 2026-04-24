@@ -7,5 +7,5 @@ Este proyecto es una práctica para aprender a usar GitHub.
 - HTML
 - CSS
 - JavaScript 
-## Autor 
-Manuel Zazueta
+## Autor
+Rodolfo Rivera 
